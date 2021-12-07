@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_1_Korchak_Oleksandr</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="my_cources">My cources</string>
+    <string name="cources">Cources</string>
+</resources>
